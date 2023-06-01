@@ -35,6 +35,7 @@ target/
 .project
 
 # IntelliJ IDEA
+.idea/
 .idea
 *.iml
 
